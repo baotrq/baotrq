@@ -1,76 +1,113 @@
-<a href="https://github.com/baotrq">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baotrq/baotrq/main/card/dark.svg">
-    <img alt="Bảo Trương: Robotics & Mechatronics engineering student at RMIT Vietnam. Edge AI, embedded systems and apps." src="https://raw.githubusercontent.com/baotrq/baotrq/main/card/light.svg">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+  <img src="assets/hero-light.png" alt="Bảo Trương, Ho Chi Minh City. Building between hardware and software. Robotics & Mechatronics at RMIT Vietnam, Foundation AI intern at VinRobotics. 3 competition podiums, 10,000+ people on ONBOOTH, edge AI on microcontrollers." />
+</picture>
 
-<p align="center">
-  <a href="https://baotrq.github.io/Personal-Portfolio/">Portfolio</a> ·
-  <a href="https://www.onboothvn.com">ONBOOTH</a> ·
-  <a href="mailto:tdmbao2005@gmail.com">Email</a>
-</p>
+[Portfolio](https://baotrq.github.io/Personal-Portfolio/) · [ONBOOTH](https://www.onboothvn.com) · [Email](mailto:tdmbao2005@gmail.com)
 
-I build things that sit between hardware and software: firmware and edge AI on microcontrollers, the
-mechanisms they move, and the apps people actually use to talk to them. On team projects I'm usually
-the hardware/software architect; on my own I ship products end to end.
+<br />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-selected-work-dark.png">
+  <img src="assets/label-selected-work-light.png" alt="01 — Selected work" />
+</picture>
 
-### 📈 Featured Projects
+<table>
+<tr>
+<td width="48%"><a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/hero.png" alt="Roll: a black cat holding a banknote in a garden of coins" /></a></td>
+<td>
 
-#### 🐈‍⬛ [Roll: money habits, with a cat](https://github.com/baotrq/roll-showcase)
-<a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/gallery.png" alt="Roll app screenshots" /></a>
+### [Roll](https://github.com/baotrq/roll-showcase)
+**Money habits, with a cat.**
 
-A cat-themed expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank
-notification fill it in. Offline-first with sync between devices, a Wear OS companion and a native iOS
-port. Empty scaffold to store-ready in **six weeks**.
-<br /><sub>Kotlin · Jetpack Compose · Room · SwiftUI · Supabase · Gemini · RevenueCat</sub>
+An expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank
+notification fill it in. Offline-first, with a Wear OS companion and a native iOS port.
 
-#### 📸 [ONBOOTH: a photobooth for friends far apart](https://github.com/baotrq/onbooth-showcase)
-<a href="https://github.com/baotrq/onbooth-showcase"><img src="https://raw.githubusercontent.com/baotrq/onbooth-showcase/main/assets/real-strips.jpg" alt="Real ONBOOTH photo strips" /></a>
+<sub>Kotlin · Compose · SwiftUI · Supabase · Gemini</sub><br />
+<sub>Store-ready in six weeks, solo</sub>
 
-Up to eight friends join one booth over live video; one synced countdown takes everyone's photo at
-once, and every browser composites the identical strip, with no server touching an image. Live at
-[onboothvn.com](https://www.onboothvn.com) in English and Vietnamese, **10,367 users** so far.
-<br /><sub>Next.js 16 · React 19 · TypeScript · LiveKit (WebRTC) · MediaPipe · Upstash Redis · Vercel</sub>
+</td>
+</tr>
+<tr>
+<td>
 
----
+### [ONBOOTH](https://github.com/baotrq/onbooth-showcase)
+**Far apart, same strip.**
 
-### 🏆 Competitions
+A photobooth for friends in different places: up to eight people on live video, one synced
+countdown, one shared strip, composited in every browser with no server touching an image.
 
-#### 💊 [P.I.L.L.A.R.S: AIoT homecare for Parkinson's](https://github.com/baotrq/pillars-showcase) · First Runner-Up, FPT IoT Challenge 2026
-<a href="https://github.com/baotrq/pillars-showcase"><img src="https://raw.githubusercontent.com/baotrq/pillars-showcase/main/assets/hero.jpg" alt="The P-Station pill dispenser with its kiosk tablet at the FPT IoT Challenge 2026 Grand Final" /></a>
+<sub>Next.js · WebRTC · MediaPipe · Redis</sub><br />
+<sub><b>10,367 users</b> · live at <a href="https://www.onboothvn.com">onboothvn.com</a></sub>
 
-A wristband that flags a possible fall, freeze or spoken "help" on-device, a home Station that hands
-the right pills to the right person and keeps working offline, and a caregiver app with live alerts.
-Fall and freezing-of-gait models run full INT8 on a Silicon Labs EFR32xG26. **My part:** the pill
-dispenser (2 × ESP32 motor layers, Pi-side pill counting, cup-pickup sensor) and the Station's kiosk.
-<br /><sub>EFR32xG26 + BGM220 · TensorFlow Lite Micro · Raspberry Pi · ESP32 · FastAPI · Next.js · PostgreSQL</sub>
+</td>
+<td width="48%"><a href="https://github.com/baotrq/onbooth-showcase"><img src="https://raw.githubusercontent.com/baotrq/onbooth-showcase/main/assets/hero.png" alt="The ONBOOTH landing page: a cream ticket on a red booth curtain" /></a></td>
+</tr>
+</table>
 
-#### 🌸 [S.C.E.N.T: an Edge AIoT perfume shelf](https://github.com/baotrq/scent-showcase) · Second Prize, FPT IoT Challenge 2025
-<a href="https://github.com/baotrq/scent-showcase"><img src="https://raw.githubusercontent.com/baotrq/scent-showcase/main/assets/award.jpg" alt="Team Edgelectronix on stage with the Second Prize at the FPT IoT Challenge 2025" /></a>
+<br />
 
-A shelf that recommends a fragrance from your personality and occasion and lights up the bottle, tracks
-stock with load cells and IR beams, and hears a glass bottle break, over a Thread mesh. **My part:** the
-recommendation model on an EFR32xG24, from a 50-class classifier to a contrastive 64-D embedding ranked
-by cosine similarity, full INT8.
-<br /><sub>EFR32xG24 / xG26 / MG21 · Silicon Labs MLTK · TensorFlow Lite Micro · OpenThread · Raspberry Pi · Flask</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-competitions-dark.png">
+  <img src="assets/label-competitions-light.png" alt="02 — Competitions" />
+</picture>
 
-#### 🩺 [Ecyce MediLink: a smart pill dispenser](https://github.com/baotrq/ecyce-showcase) · First Runner-Up, NEO League Season 2
-<a href="https://github.com/baotrq/ecyce-showcase"><img src="https://raw.githubusercontent.com/baotrq/ecyce-showcase/main/assets/hero.jpg" alt="Ecyce MediLink: the web dashboard's Health Overview next to the phone sign-up screen" /></a>
+<table>
+<tr>
+<td width="48%"><a href="https://github.com/baotrq/pillars-showcase"><img src="https://raw.githubusercontent.com/baotrq/pillars-showcase/main/assets/hero.jpg" alt="The P.I.L.L.A.R.S Station pill dispenser with its kiosk tablet" /></a></td>
+<td>
 
-Recognises who's in front of it, reads a paper prescription into a schedule, drops exactly one pill at
-a time and confirms each drop, over a local MQTT loop that works offline. **My part:** the web
-dashboard and app flow: FaceID onboarding, prescription scan, schedule and AI chat.
-<br /><sub>ESP32 · Raspberry Pi 4 · MQTT · ArcFace · Tesseract OCR · Gemma · SQLite · AWS IoT Core</sub>
+### [P.I.L.L.A.R.S](https://github.com/baotrq/pillars-showcase)
+**🏆 First Runner-Up · FPT IoT Challenge 2026**
 
----
+AIoT homecare for Parkinson's: a wristband that flags a fall or freeze on-device, and a home
+Station that hands the right pills to the right person. I built the dispenser and the kiosk.
 
-### 🛠️ More builds
+<sub>EFR32xG26 · TFLite Micro · ESP32 · Raspberry Pi</sub>
 
-| | |
-| :--- | :--- |
-| 🥚 **[Egg Gripper](https://github.com/baotrq/egg-gripper-showcase)** | Lifts a raw egg 90 cm, holds it 30 s, puts it down unbroken: ESP32 force control on a fingertip load cell, egg-shaped TPU tips, a live 3D dashboard. **97/100** on the demo, MIET2561 (RMIT). |
-| 🎵 **[SimpMusic (Bao)](https://github.com/baotrq/simpmusic-bao-showcase)** | My fork of the open-source YouTube Music client: a car LED strip follows the album art over a BLE protocol I reverse-engineered, playback follows me between phones, a player rebuilt for Samsung DeX. |
-| ⏳ **[Age in Motion](https://github.com/baotrq/age-in-motion-showcase)** | An Android home-screen widget that counts your age up live to eight decimals, by handing the fast digits to the launcher's own ViewFlippers. |
+</td>
+</tr>
+<tr>
+<td>
+
+### [S.C.E.N.T](https://github.com/baotrq/scent-showcase)
+**🏆 Second Prize · FPT IoT Challenge 2025**
+
+A perfume shelf that recommends a fragrance, tracks stock and hears a bottle break. I built the
+recommendation model: a 64-D embedding, full INT8 on an EFR32xG24.
+
+<sub>EFR32xG24 · Silicon Labs MLTK · OpenThread</sub>
+
+</td>
+<td width="48%"><a href="https://github.com/baotrq/scent-showcase"><img src="https://raw.githubusercontent.com/baotrq/scent-showcase/main/assets/award.jpg" alt="Team Edgelectronix on stage with the Second Prize" /></a></td>
+</tr>
+<tr>
+<td width="48%"><a href="https://github.com/baotrq/ecyce-showcase"><img src="https://raw.githubusercontent.com/baotrq/ecyce-showcase/main/assets/hero.jpg" alt="Ecyce MediLink: the web dashboard next to the phone sign-up screen" /></a></td>
+<td>
+
+### [Ecyce MediLink](https://github.com/baotrq/ecyce-showcase)
+**🏆 First Runner-Up · NEO League Season 2**
+
+A pill dispenser that recognises who's in front of it, reads a paper prescription, and drops one
+pill at a time. I built the dashboard and app flow.
+
+<sub>ESP32 · MQTT · ArcFace · Tesseract OCR</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-more-builds-dark.png">
+  <img src="assets/label-more-builds-light.png" alt="03 — More builds" />
+</picture>
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/baotrq/egg-gripper-showcase"><img src="https://raw.githubusercontent.com/baotrq/egg-gripper-showcase/main/assets/build.jpg" alt="Egg gripper build photos" /></a><br /><b><a href="https://github.com/baotrq/egg-gripper-showcase">Egg Gripper</a></b><br /><sub>Lifts a raw egg without breaking it. 97/100 on the demo.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/baotrq/simpmusic-bao-showcase"><img src="https://raw.githubusercontent.com/baotrq/simpmusic-bao-showcase/main/assets/led-car.gif" alt="A car LED strip changing colour with the album art" /></a><br /><b><a href="https://github.com/baotrq/simpmusic-bao-showcase">SimpMusic (Bao)</a></b><br /><sub>A car LED strip that follows the album art, over reverse-engineered BLE.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="A dot-matrix age counter ticking up" /></a><br /><b><a href="https://github.com/baotrq/age-in-motion-showcase">Age in Motion</a></b><br /><sub>Your age, counting up live on the home screen.</sub></td>
+</tr>
+</table>
