@@ -33,6 +33,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** A cat-themed personal expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank notification fill it in. Offline-first, with sync between devices, a Wear OS companion and a native iOS port. Built from scratch to store-ready in six weeks.
 * **Tech:** Kotlin, Jetpack Compose, Room, SwiftUI, Supabase (Postgres + RLS, Edge Functions), Gemini, RevenueCat.
 
+#### 📸 [ONBOOTH: a virtual photobooth for friends far apart](https://github.com/baotrq/onbooth-showcase)
+<a href="https://github.com/baotrq/onbooth-showcase"><img src="https://raw.githubusercontent.com/baotrq/onbooth-showcase/main/assets/real-strips.jpg" alt="Real ONBOOTH photo strips" /></a>
+
+* **Description:** Up to 8 friends join one booth over live video from anywhere; one synced countdown takes everyone's photo at once, and every browser composites the identical strip, no server touching an image. Live at [onboothvn.com](https://www.onboothvn.com), in English and Vietnamese.
+* **Tech:** Next.js 16, React 19, TypeScript, LiveKit (WebRTC), MediaPipe, Upstash Redis, Vercel.
+
 #### ⏳ [Age in Motion: your age, live on your home screen](https://github.com/baotrq/age-in-motion-showcase)
 <a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="Age in Motion: a dot-matrix age counter ticking up" /></a>
 
