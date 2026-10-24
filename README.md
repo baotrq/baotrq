@@ -33,6 +33,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** A cat-themed personal expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank notification fill it in. Offline-first, with sync between devices, a Wear OS companion and a native iOS port. Built from scratch to store-ready in six weeks.
 * **Tech:** Kotlin, Jetpack Compose, Room, SwiftUI, Supabase (Postgres + RLS, Edge Functions), Gemini, RevenueCat.
 
+#### ⏳ [Age in Motion: your age, live on your home screen](https://github.com/baotrq/age-in-motion-showcase)
+<a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="Age in Motion: a dot-matrix age counter ticking up" /></a>
+
+* **Description:** An age counter whose Android home-screen widget counts up in real time to eight decimal places, by handing the fast digits to the launcher's own ViewFlippers instead of redrawing. Three widgets, three digit styles, iOS WidgetKit too.
+* **Tech:** Flutter, Dart, Kotlin (RemoteViews, AlarmManager), Swift (WidgetKit).
+
 #### 🤖 [Project Name: Smart Dispensing System]
 * **Description:** A mechatronics project featuring a precise rotary disc mechanism controlled via ESP32/Raspberry Pi integration.
 * **Tech:** C++, Python, Fusion 360, 3D Printing.
