@@ -39,6 +39,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** Up to 8 friends join one booth over live video from anywhere; one synced countdown takes everyone's photo at once, and every browser composites the identical strip, no server touching an image. Live at [onboothvn.com](https://www.onboothvn.com) in English and Vietnamese, with **10,367 users** so far (Oct 2026).
 * **Tech:** Next.js 16, React 19, TypeScript, LiveKit (WebRTC), MediaPipe, Upstash Redis, Vercel.
 
+#### 🥚 [Egg Gripper: force-controlled, 97/100 demo](https://github.com/baotrq/egg-gripper-showcase)
+<a href="https://github.com/baotrq/egg-gripper-showcase"><img src="https://raw.githubusercontent.com/baotrq/egg-gripper-showcase/main/assets/build.jpg" alt="Egg gripper build photos" /></a>
+
+* **Description:** A two-finger gripper that lifts a raw egg 90 cm, holds it 30 s and puts it down unbroken. ESP32 firmware closes until the fingertip load cell reads the target force, re-tightens if the grip sags and backs off on over-force; egg-shaped TPU fingertips; a live 3D dashboard over Wi-Fi or USB. Team project, MIET2561 Mechatronic Design (RMIT), **97/100** on the demo.
+* **Tech:** C++ (ESP32, PlatformIO), CAD + 3D printing (PETG, TPU), HX711 load cell, three.js.
+
 #### 🎵 [SimpMusic (Bao): my fork of SimpMusic](https://github.com/baotrq/simpmusic-bao-showcase)
 <a href="https://github.com/baotrq/simpmusic-bao-showcase"><img src="https://raw.githubusercontent.com/baotrq/simpmusic-bao-showcase/main/assets/led-car.gif" alt="A car's LED strip changing colour with each song's album art" /></a>
 
