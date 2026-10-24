@@ -3,7 +3,9 @@
   <img src="assets/hero-light.png" alt="Bảo Trương, Ho Chi Minh City. Building between hardware and software. Robotics & Mechatronics at RMIT Vietnam, Foundation AI intern at VinRobotics. 3 competition podiums, 10,000+ people on ONBOOTH, edge AI on microcontrollers." />
 </picture>
 
-[Portfolio](https://baotrq.github.io/Personal-Portfolio/) · [ONBOOTH](https://www.onboothvn.com) · [Email](mailto:tdmbao2005@gmail.com)
+I like the part where code meets something physical: firmware and edge AI on microcontrollers, the mechanisms they drive, and the apps people actually use to talk to them. On team projects I'm usually the hardware/software architect; on my own I ship products end to end. Off the clock, I'm on the basketball court.
+
+<a href="https://baotrq.github.io/Personal-Portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.png"><img src="assets/btn-portfolio-light.png" height="40" alt="Portfolio" /></picture></a>&nbsp;<a href="https://www.onboothvn.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-onbooth-dark.png"><img src="assets/btn-onbooth-light.png" height="40" alt="ONBOOTH" /></picture></a>&nbsp;<a href="mailto:tdmbao2005@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.png"><img src="assets/btn-email-light.png" height="40" alt="Email" /></picture></a>
 
 <br />
 
@@ -20,8 +22,7 @@
 ### [Roll](https://github.com/baotrq/roll-showcase)
 **Money habits, with a cat.**
 
-An expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank
-notification fill it in. Offline-first, with a Wear OS companion and a native iOS port.
+An expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank notification fill it in. Offline-first, with a Wear OS companion and a native iOS port.
 
 <sub>Kotlin · Compose · SwiftUI · Supabase · Gemini</sub><br />
 <sub>Store-ready in six weeks, solo</sub>
@@ -34,8 +35,7 @@ notification fill it in. Offline-first, with a Wear OS companion and a native iO
 ### [ONBOOTH](https://github.com/baotrq/onbooth-showcase)
 **Far apart, same strip.**
 
-A photobooth for friends in different places: up to eight people on live video, one synced
-countdown, one shared strip, composited in every browser with no server touching an image.
+A photobooth for friends in different places: up to eight people on live video, one synced countdown, one shared strip, composited in every browser with no server touching an image.
 
 <sub>Next.js · WebRTC · MediaPipe · Redis</sub><br />
 <sub><b>10,367 users</b> · live at <a href="https://www.onboothvn.com">onboothvn.com</a></sub>
@@ -60,8 +60,7 @@ countdown, one shared strip, composited in every browser with no server touching
 ### [P.I.L.L.A.R.S](https://github.com/baotrq/pillars-showcase)
 **🏆 First Runner-Up · FPT IoT Challenge 2026**
 
-AIoT homecare for Parkinson's: a wristband that flags a fall or freeze on-device, and a home
-Station that hands the right pills to the right person. I built the dispenser and the kiosk.
+AIoT homecare for Parkinson's: a wristband that flags a fall or freeze on-device, and a home Station that hands the right pills to the right person. I built the dispenser and the kiosk.
 
 <sub>EFR32xG26 · TFLite Micro · ESP32 · Raspberry Pi</sub>
 
@@ -73,8 +72,7 @@ Station that hands the right pills to the right person. I built the dispenser an
 ### [S.C.E.N.T](https://github.com/baotrq/scent-showcase)
 **🏆 Second Prize · FPT IoT Challenge 2025**
 
-A perfume shelf that recommends a fragrance, tracks stock and hears a bottle break. I built the
-recommendation model: a 64-D embedding, full INT8 on an EFR32xG24.
+A perfume shelf that recommends a fragrance, tracks stock and hears a bottle break. I built the recommendation model: a 64-D embedding, full INT8 on an EFR32xG24.
 
 <sub>EFR32xG24 · Silicon Labs MLTK · OpenThread</sub>
 
@@ -88,8 +86,7 @@ recommendation model: a 64-D embedding, full INT8 on an EFR32xG24.
 ### [Ecyce MediLink](https://github.com/baotrq/ecyce-showcase)
 **🏆 First Runner-Up · NEO League Season 2**
 
-A pill dispenser that recognises who's in front of it, reads a paper prescription, and drops one
-pill at a time. I built the dashboard and app flow.
+A pill dispenser that recognises who's in front of it, reads a paper prescription, and drops one pill at a time. I built the dashboard and app flow.
 
 <sub>ESP32 · MQTT · ArcFace · Tesseract OCR</sub>
 
