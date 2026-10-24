@@ -33,6 +33,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** A wristband that flags a possible fall, freeze or spoken "help" on-device, a home Station that dispenses the right pills to the right person (FaceID, 8 cups, IR pill counting) and keeps working offline, and a caregiver app with live alerts. Fall-direction and freezing-of-gait models run full-INT8 on Silicon Labs EFR32xG26, 1.23× faster on its MVP accelerator. I built the pill dispenser (2 × ESP32 motor layers, Pi-side pill counting, cup-pickup sensor) and the Station's kiosk UI. Team of four, **First Runner-Up** at the FPT IoT Challenge 2026 Grand Final.
 * **Tech:** Silicon Labs EFR32xG26 + BGM220, TensorFlow Lite Micro, Raspberry Pi, ESP32, Python (FastAPI), Next.js, PostgreSQL, Redis, three.js.
 
+#### 🌸 [S.C.E.N.T: an Edge AIoT perfume shelf, Second Prize](https://github.com/baotrq/scent-showcase)
+<a href="https://github.com/baotrq/scent-showcase"><img src="https://raw.githubusercontent.com/baotrq/scent-showcase/main/assets/award.jpg" alt="Team Edgelectronix on stage with the Second Prize at the FPT IoT Challenge 2025" /></a>
+
+* **Description:** A smart perfume shelf that recommends a fragrance from your personality and occasion and lights up the bottle, tracks stock with load cells and IR beams, and hears a glass bottle break, all over a Thread mesh. I built the recommendation model on the EFR32xG24: a 50-class MLTK classifier first, then a contrastive 64-D embedding ranked by cosine similarity, full INT8 on the microcontroller. Team of four, **Second Prize** at the FPT IoT Challenge 2025.
+* **Tech:** Silicon Labs EFR32xG24 / xG26 / MG21, MLTK, TensorFlow / Keras, TensorFlow Lite Micro, OpenThread, Micrium OS, Raspberry Pi, Flask, PostgreSQL + TimescaleDB, Redis.
+
 #### 🐈‍⬛ [Roll: Money habits, with a cat](https://github.com/baotrq/roll-showcase)
 <a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/gallery.png" alt="Roll app screenshots" /></a>
 
@@ -62,10 +68,6 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 
 * **Description:** An age counter whose Android home-screen widget counts up in real time to eight decimal places, by handing the fast digits to the launcher's own ViewFlippers instead of redrawing. Three widgets, three digit styles, iOS WidgetKit too.
 * **Tech:** Flutter, Dart, Kotlin (RemoteViews, AlarmManager), Swift (WidgetKit).
-
-#### 🧠 [Project Name: Edge AI Embedding Pipeline]
-* **Description:** Developed high-dimensional embedding architectures and quantization pipelines optimized for edge devices.
-* **Tech:** Python, PyTorch, Quantization tools.
 
 #### 📊 [Project Name: Predictive AI Forecasting]
 * **Description:** Built a time-series forecasting system utilizing Prophet to optimize supply chain and manufacturing demand.
