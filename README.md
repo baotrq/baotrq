@@ -39,6 +39,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** Up to 8 friends join one booth over live video from anywhere; one synced countdown takes everyone's photo at once, and every browser composites the identical strip, no server touching an image. Live at [onboothvn.com](https://www.onboothvn.com) in English and Vietnamese, with **10,367 users** so far (Oct 2026).
 * **Tech:** Next.js 16, React 19, TypeScript, LiveKit (WebRTC), MediaPipe, Upstash Redis, Vercel.
 
+#### 🎵 [SimpMusic (Bao): my fork of SimpMusic](https://github.com/baotrq/simpmusic-bao-showcase)
+<a href="https://github.com/baotrq/simpmusic-bao-showcase"><img src="https://raw.githubusercontent.com/baotrq/simpmusic-bao-showcase/main/assets/led-car.gif" alt="A car's LED strip changing colour with each song's album art" /></a>
+
+* **Description:** My daily-driver build of the open-source YouTube Music client. A car LED strip follows each song's album art over a Bluetooth protocol I reverse-engineered from HCI snoop logs; playback and encrypted sign-ins follow me between phones through my own Cloudflare Worker; the player is rebuilt for Samsung DeX.
+* **Tech:** Kotlin Multiplatform, Compose, Bluetooth LE, Cloudflare Workers + D1, AES-GCM, Gemini.
+
 #### ⏳ [Age in Motion: your age, live on your home screen](https://github.com/baotrq/age-in-motion-showcase)
 <a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="Age in Motion: a dot-matrix age counter ticking up" /></a>
 
