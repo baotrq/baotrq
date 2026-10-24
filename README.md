@@ -39,6 +39,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 * **Description:** A smart perfume shelf that recommends a fragrance from your personality and occasion and lights up the bottle, tracks stock with load cells and IR beams, and hears a glass bottle break, all over a Thread mesh. I built the recommendation model on the EFR32xG24: a 50-class MLTK classifier first, then a contrastive 64-D embedding ranked by cosine similarity, full INT8 on the microcontroller. Team of four, **Second Prize** at the FPT IoT Challenge 2025.
 * **Tech:** Silicon Labs EFR32xG24 / xG26 / MG21, MLTK, TensorFlow / Keras, TensorFlow Lite Micro, OpenThread, Micrium OS, Raspberry Pi, Flask, PostgreSQL + TimescaleDB, Redis.
 
+#### 🩺 [Ecyce MediLink: a smart pill dispenser, First Runner-Up](https://github.com/baotrq/ecyce-showcase)
+<a href="https://github.com/baotrq/ecyce-showcase"><img src="https://raw.githubusercontent.com/baotrq/ecyce-showcase/main/assets/hero.jpg" alt="Ecyce MediLink: the web dashboard's Health Overview next to the phone sign-up screen" /></a>
+
+* **Description:** A pill dispenser that recognises who's in front of it (ArcFace), reads a paper prescription (Tesseract OCR + Gemma) into a schedule, drops exactly one pill at a time from removable 3D-printed cylinders, and confirms each drop with a piezo sensor, over a local MQTT loop that works offline. I built the web dashboard and app flow: FaceID onboarding, prescription scan, schedule and AI chat. Team of four, **First Runner-Up** at NEO League Season 2 (RMIT University Vietnam).
+* **Tech:** ESP32, Raspberry Pi 4, Mosquitto MQTT, ArcFace (ONNX Runtime), Tesseract OCR, Gemma, SQLite, AWS IoT Core, 3D printing (PETG).
+
 #### 🐈‍⬛ [Roll: Money habits, with a cat](https://github.com/baotrq/roll-showcase)
 <a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/gallery.png" alt="Roll app screenshots" /></a>
 
