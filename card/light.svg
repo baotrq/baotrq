@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" width="985px" height="525px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.text {fill: #24292f;} .key {fill: #953800;} .value {fill: #0a3069;}
+.dots {fill: #c2cfde;} .add {fill: #1a7f37;} .del {fill: #cf222e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="525px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70">         ``|jlw%@Ngj|j     l</tspan>
+<tspan x="15" y="90">       |;jllmw%MMlilkgglimgwNNN</tspan>
+<tspan x="15" y="110">       |@@MMM@@@@NM@@MMNwgMN%M@Mi</tspan>
+<tspan x="15" y="130">        w@@@@@@M@@@@@@@@@M@@@@@@N</tspan>
+<tspan x="15" y="150">         wNMMM@gM@@@@@@@@@@@@@@@M</tspan>
+<tspan x="15" y="170">         kwggg%%@@@MMmgM@M@@@@@@g</tspan>
+<tspan x="15" y="190">         ;wi|mgkkmmgk|lwNM@@@@@M</tspan>
+<tspan x="15" y="210">         `:.`:lwi;:!|ilwjjilg@%</tspan>
+<tspan x="15" y="230">         ,&#x27;....&#x27;&#x27;..,::,,,`..j|,</tspan>
+<tspan x="15" y="250">kmwwgg@@%!.........&#x27;&#x27;`......,;.</tspan>
+<tspan x="15" y="270">k%@Mw@@wk%j&#x27;....&#x27;:,:,:`....&#x27;&#x27;,.</tspan>
+<tspan x="15" y="290">%mN@gM@%w@@!....&#x27;&#x27;`::,`&#x27;...,`</tspan>
+<tspan x="15" y="310">N@g@@wM%%@@M,...,!|||!:..&#x27;mj</tspan>
+<tspan x="15" y="330">j@Mg@MwgM@@@m&#x27;..&#x27;,:,...&#x27;.l@%m</tspan>
+<tspan x="15" y="350">|l@%@MmNMMNNg|..:;;`.`,.:@M%MN%j</tspan>
+<tspan x="15" y="370">%km@%im@NNwmwi;&#x27;,:;:,,:j@MN@M@NMN!</tspan>
+<tspan x="15" y="390">%NNNM%w%g%gl%l;;:::::|wNNN@@@@Mw%@i</tspan>
+<tspan x="15" y="410">gNNM@@@mwg%lNN,::,,,!kwgNMN%@MMMlNN</tspan>
+<tspan x="15" y="430">!j%MM@@wmkNm%@:&#x27;&#x27;..,ik%%wkl@@NNglkgk</tspan>
+<tspan x="15" y="450">iim%NN@Nmkm%N@!```iikkl|!|M@gwwgwmkk</tspan>
+<tspan x="15" y="470">|jw%%%%Nwglw@@wjil!:,`&#x27;&#x27;,gMkmgNMM@Nk;</tspan>
+<tspan x="15" y="490">mkwNMMNMww%l%@@M%%llj|lmkg%N@@@MMNgkl</tspan>
+<tspan x="15" y="510">kmwg%m%@NwMNk@@gMgm@gi||mNNgwggwwwwww</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30"><tspan class="text">baotrq@github </tspan><tspan class="text">——————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">Windows, macOS, Ubuntu Linux, Android</tspan></tspan>
+<tspan x="390" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">21 years, 7 months, 13 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ........................................ </tspan><tspan class="value">VinRobotics</tspan></tspan>
+<tspan x="390" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">Foundation AI / VLA Research Intern</tspan></tspan>
+<tspan x="390" y="130"><tspan class="dots">. </tspan><tspan class="key">School</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">RMIT Vietnam, Robotics &amp; Mechatronics (Hons)</tspan></tspan>
+<tspan x="390" y="150"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">VS Code, Claude Code, Simplicity Studio</tspan></tspan>
+<tspan x="390" y="170"><tspan class="dots">. </tspan></tspan>
+<tspan x="390" y="190"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="dots"> . </tspan><tspan class="value">Python, C/C++, Kotlin, TypeScript</tspan></tspan>
+<tspan x="390" y="210"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">ESP32, EFR32, Raspberry Pi</tspan></tspan>
+<tspan x="390" y="230"><tspan class="dots">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">Vietnamese, English</tspan></tspan>
+<tspan x="390" y="250"><tspan class="dots">. </tspan></tspan>
+<tspan x="390" y="270"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Court</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">Basketball, Wed / Fri / Sun</tspan></tspan>
+<tspan x="390" y="290"><tspan class="dots">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Desk</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">3D printing, building gadgets</tspan></tspan>
+<tspan x="390" y="310"><tspan class="dots">. </tspan><tspan class="key">Awards</tspan>:<tspan class="dots"> ......... </tspan><tspan class="value">2 × FPT IoT Challenge podium, NEO League</tspan></tspan>
+<tspan x="390" y="330"><tspan class="text">- Contact ——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="350"><tspan class="dots">. </tspan><tspan class="key">Email</tspan>:<tspan class="dots"> .............................. </tspan><tspan class="value">tdmbao2005@gmail.com</tspan></tspan>
+<tspan x="390" y="370"><tspan class="dots">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">baotrq.github.io/Personal-Portfolio</tspan></tspan>
+<tspan x="390" y="390"><tspan class="dots">. </tspan><tspan class="key">ONBOOTH</tspan>:<tspan class="dots"> ................................... </tspan><tspan class="value">onboothvn.com</tspan></tspan>
+<tspan x="390" y="410"><tspan class="text">- GitHub Stats —————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="430"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">-</tspan><tspan class="dots"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">-</tspan></tspan>
+<tspan x="390" y="450"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">-</tspan><tspan class="dots"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">-</tspan></tspan>
+<tspan x="390" y="470"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">-</tspan> ( <tspan class="add">-++</tspan>, <tspan class="del">---</tspan> )</tspan>
+</text>
+</svg>
