@@ -36,7 +36,7 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 #### 📸 [ONBOOTH: a virtual photobooth for friends far apart](https://github.com/baotrq/onbooth-showcase)
 <a href="https://github.com/baotrq/onbooth-showcase"><img src="https://raw.githubusercontent.com/baotrq/onbooth-showcase/main/assets/real-strips.jpg" alt="Real ONBOOTH photo strips" /></a>
 
-* **Description:** Up to 8 friends join one booth over live video from anywhere; one synced countdown takes everyone's photo at once, and every browser composites the identical strip, no server touching an image. Live at [onboothvn.com](https://www.onboothvn.com), in English and Vietnamese.
+* **Description:** Up to 8 friends join one booth over live video from anywhere; one synced countdown takes everyone's photo at once, and every browser composites the identical strip, no server touching an image. Live at [onboothvn.com](https://www.onboothvn.com) in English and Vietnamese, with **10,367 users** so far (Oct 2026).
 * **Tech:** Next.js 16, React 19, TypeScript, LiveKit (WebRTC), MediaPipe, Upstash Redis, Vercel.
 
 #### ⏳ [Age in Motion: your age, live on your home screen](https://github.com/baotrq/age-in-motion-showcase)
