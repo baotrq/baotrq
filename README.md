@@ -27,6 +27,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 
 ### 📈 Featured Projects
 
+#### 🐈‍⬛ [Roll: Money habits, with a cat](https://github.com/baotrq/roll-showcase)
+<a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/gallery.png" alt="Roll app screenshots" /></a>
+
+* **Description:** A cat-themed personal expense tracker where logging takes seconds: snap a photo, say it out loud, or let a bank notification fill it in. Offline-first, with sync between devices, a Wear OS companion and a native iOS port. Built from scratch to store-ready in six weeks.
+* **Tech:** Kotlin, Jetpack Compose, Room, SwiftUI, Supabase (Postgres + RLS, Edge Functions), Gemini, RevenueCat.
+
 #### 🤖 [Project Name: Smart Dispensing System]
 * **Description:** A mechatronics project featuring a precise rotary disc mechanism controlled via ESP32/Raspberry Pi integration.
 * **Tech:** C++, Python, Fusion 360, 3D Printing.
