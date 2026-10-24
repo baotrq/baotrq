@@ -27,6 +27,12 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 
 ### 📈 Featured Projects
 
+#### 💊 [P.I.L.L.A.R.S: AIoT homecare for Parkinson's, First Runner-Up](https://github.com/baotrq/pillars-showcase)
+<a href="https://github.com/baotrq/pillars-showcase"><img src="https://raw.githubusercontent.com/baotrq/pillars-showcase/main/assets/hero.jpg" alt="The P-Station pill dispenser with its kiosk tablet at the FPT IoT Challenge 2026 Grand Final" /></a>
+
+* **Description:** A wristband that flags a possible fall, freeze or spoken "help" on-device, a home Station that dispenses the right pills to the right person (FaceID, 8 cups, IR pill counting) and keeps working offline, and a caregiver app with live alerts. Fall-direction and freezing-of-gait models run full-INT8 on Silicon Labs EFR32xG26, 1.23× faster on its MVP accelerator. I built the pill dispenser (2 × ESP32 motor layers, Pi-side pill counting, cup-pickup sensor) and the Station's kiosk UI. Team of four, **First Runner-Up** at the FPT IoT Challenge 2026 Grand Final.
+* **Tech:** Silicon Labs EFR32xG26 + BGM220, TensorFlow Lite Micro, Raspberry Pi, ESP32, Python (FastAPI), Next.js, PostgreSQL, Redis, three.js.
+
 #### 🐈‍⬛ [Roll: Money habits, with a cat](https://github.com/baotrq/roll-showcase)
 <a href="https://github.com/baotrq/roll-showcase"><img src="https://raw.githubusercontent.com/baotrq/roll-showcase/main/assets/gallery.png" alt="Roll app screenshots" /></a>
 
@@ -56,10 +62,6 @@ Currently, I act as a Team Lead & Hardware/Software Architect for technical grou
 
 * **Description:** An age counter whose Android home-screen widget counts up in real time to eight decimal places, by handing the fast digits to the launcher's own ViewFlippers instead of redrawing. Three widgets, three digit styles, iOS WidgetKit too.
 * **Tech:** Flutter, Dart, Kotlin (RemoteViews, AlarmManager), Swift (WidgetKit).
-
-#### 🤖 [Project Name: Smart Dispensing System]
-* **Description:** A mechatronics project featuring a precise rotary disc mechanism controlled via ESP32/Raspberry Pi integration.
-* **Tech:** C++, Python, Fusion 360, 3D Printing.
 
 #### 🧠 [Project Name: Edge AI Embedding Pipeline]
 * **Description:** Developed high-dimensional embedding architectures and quantization pipelines optimized for edge devices.
