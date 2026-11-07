@@ -43,6 +43,20 @@ A photobooth for friends in different places: up to eight people on live video, 
 </td>
 <td width="48%"><a href="https://github.com/baotrq/onbooth-showcase"><img src="https://raw.githubusercontent.com/baotrq/onbooth-showcase/main/assets/hero.png" alt="The ONBOOTH landing page: a cream ticket on a red booth curtain" /></a></td>
 </tr>
+<tr>
+<td width="48%"><a href="https://github.com/baotrq/simpmusic-bao-showcase"><img src="https://raw.githubusercontent.com/baotrq/simpmusic-bao-showcase/main/assets/led-car.gif" alt="A car LED strip changing colour to match the album art playing on the dashboard screen" /></a></td>
+<td>
+
+### [Nhạc Nhẽo](https://github.com/baotrq/simpmusic-bao-showcase)
+**YouTube Music, rebuilt for how I listen.**
+
+My daily-driver build of SimpMusic: a car LED strip that follows the album art over reverse-engineered BLE, music that follows me between phones, and songs that start about twice as fast.
+
+<sub>Kotlin · Compose Multiplatform · Bluetooth LE · Cloudflare Workers</sub><br />
+<sub>Fork of <a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a> · <a href="https://github.com/baotrq/SimpMusic/releases/latest/download/SimpMusic-Bao.apk">download for Android</a></sub>
+
+</td>
+</tr>
 </table>
 
 <br />
@@ -103,8 +117,7 @@ A pill dispenser that recognises who's in front of it, reads a paper prescriptio
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/baotrq/egg-gripper-showcase"><img src="https://raw.githubusercontent.com/baotrq/egg-gripper-showcase/main/assets/build.jpg" alt="Egg gripper build photos" /></a><br /><b><a href="https://github.com/baotrq/egg-gripper-showcase">Egg Gripper</a></b><br /><sub>Lifts a raw egg without breaking it. 97/100 on the demo.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/baotrq/simpmusic-bao-showcase"><img src="https://raw.githubusercontent.com/baotrq/simpmusic-bao-showcase/main/assets/led-car.gif" alt="A car LED strip changing colour with the album art" /></a><br /><b><a href="https://github.com/baotrq/simpmusic-bao-showcase">SimpMusic (Bao)</a></b><br /><sub>A car LED strip that follows the album art, over reverse-engineered BLE.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="A dot-matrix age counter ticking up" /></a><br /><b><a href="https://github.com/baotrq/age-in-motion-showcase">Age in Motion</a></b><br /><sub>Your age, counting up live on the home screen.</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/baotrq/egg-gripper-showcase"><img src="https://raw.githubusercontent.com/baotrq/egg-gripper-showcase/main/assets/build.jpg" alt="Egg gripper build photos" /></a><br /><b><a href="https://github.com/baotrq/egg-gripper-showcase">Egg Gripper</a></b><br /><sub>Lifts a raw egg without breaking it. 97/100 on the demo.</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/baotrq/age-in-motion-showcase"><img src="https://raw.githubusercontent.com/baotrq/age-in-motion-showcase/main/assets/hero.gif" alt="A dot-matrix age counter ticking up" /></a><br /><b><a href="https://github.com/baotrq/age-in-motion-showcase">Age in Motion</a></b><br /><sub>Your age, counting up live on the home screen.</sub></td>
 </tr>
 </table>
