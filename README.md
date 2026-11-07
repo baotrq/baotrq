@@ -53,7 +53,7 @@ A photobooth for friends in different places: up to eight people on live video, 
 My daily-driver build of SimpMusic: a car LED strip that follows the album art over reverse-engineered BLE, music that follows me between phones, and songs that start about twice as fast.
 
 <sub>Kotlin · Compose Multiplatform · Bluetooth LE · Cloudflare Workers</sub><br />
-<sub>Fork of <a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a> · <a href="https://github.com/baotrq/SimpMusic/releases/latest/download/SimpMusic-Bao.apk">download for Android</a></sub>
+<sub>Fork of <a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a> · <a href="https://github.com/baotrq/SimpMusic/releases/latest">download for Android</a></sub>
 
 </td>
 </tr>
